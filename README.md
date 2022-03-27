@@ -10,8 +10,8 @@ function Life(){
   while(alive)
   {
     eat();
-    Music();
     coffe();
+    Music();
     code();
     Recreation();
     sleep();
