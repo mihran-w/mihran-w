@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Mehran Nasser, nicknamed Mihranw 🤞
 
-- 🔗 Full Stack Developer
+- 🔗 Full Stack Developer in Web
 - 🔗 Data science , Artificial intelligence
 - 🔗 .NET
 
