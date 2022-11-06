@@ -3,6 +3,7 @@
 - 🔗 Full Stack Developer in Web
 - 🔗 Data science , Artificial intelligence
 - 🔗 .NET
+- 🔗 Python
 
 
 ```
