@@ -23,5 +23,5 @@ function Life(){
 
 
 
-- 📃 [Click Here To See My Resume](http://www.mihranw.ir/?i=1) 📃
+- 📃 [Click Here To See My Resume](http://mihranw.ir) 📃
 
